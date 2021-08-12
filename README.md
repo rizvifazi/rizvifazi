@@ -32,8 +32,12 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
-[![Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizvifazi)](https://github.com/rizvifazi/github-readme-stats)
+[![Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizvifazi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/rizvifazi/github-readme-stats)
 
+<br />
+
+
+<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -43,7 +47,7 @@ This is the place where I opensource stuff and break things 🤣
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rizvifazi&hide_title=true&hide_border=true&langs_count=5)
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rizvifazi&hide_title=true&hide_border=true&langs_count=5&count_private=true)
 
 [website]: https://rizvifazi.github.io
 [linkedin]: https://linkedin.com/in/rizvifazi
