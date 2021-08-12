@@ -32,6 +32,8 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
+[![Rizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizvifazi)](https://github.com/rizvifazi/github-readme-stats)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
