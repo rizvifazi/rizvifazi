@@ -11,6 +11,11 @@ This is the place where I opensource stuff and break things 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design
 
+
+### My Batches:
+
+[<img align="left" alt="rizvifazi | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70494400)" />][AzureFund]
+
 ### Connect with me:
 
 [<img align="left" alt="rizvifazi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,7 +33,6 @@ This is the place where I opensource stuff and break things 🤣
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4d2bb76-4cee-4f0e-80a8-42c5393ef1d9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <br />
 <br />
 
