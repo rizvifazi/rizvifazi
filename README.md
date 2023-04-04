@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### My Batches:
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="50px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />][AzureFund]
+[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />][AzureFund]
 
 ### Connect with me:
 
@@ -55,3 +55,4 @@ This is the place where I opensource stuff and break things 🤣
 
 [website]: https://rizvifazi.github.io
 [linkedin]: https://linkedin.com/in/rizvifazi
+[AzureFund]: https://www.credly.com/badges/e4d2bb76-4cee-4f0e-80a8-42c5393ef1d9/public_url
