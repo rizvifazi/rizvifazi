@@ -14,8 +14,15 @@ This is the place where I opensource stuff and break things 🤣
 
 ### My Batches:
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />][AzureFund]
+[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />][AzureFund]
 
+[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />][AzureData]
+
+[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credential.net/badge/tiny/rnw9gusi_1680562937142_badge.png" />][GCP_ACE]
+
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -64,3 +71,5 @@ This is the place where I opensource stuff and break things 🤣
 [website]: https://rizvifazi.github.io
 [linkedin]: https://linkedin.com/in/rizvifazi
 [AzureFund]: https://www.credly.com/badges/e4d2bb76-4cee-4f0e-80a8-42c5393ef1d9/public_url
+[AzureData]: https://www.credly.com/badges/b765aa25-f08e-4677-a025-c16c10e2a0ee/public_url
+[GCP_ACE]: https://www.credential.net/7c2904f8-a9d9-4654-be15-194593239d0d
