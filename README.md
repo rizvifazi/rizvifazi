@@ -33,9 +33,8 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Connect with me:
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <path d="M256 112C176.3 112 112 176.3 112 256s64.3 144 144 144 144-64.3 144-144-64.3-144-144-144zm0 256c-57.4 0-104-46.6-104-104s46.6-104 104-104 104 46.6 104 104-46.6 104-104 104z"/>
-</svg>
+![Globe](https://raw.githubusercontent.com/rizvifazi/rizvifazi/main/globe.svg)
+
 
 
 
