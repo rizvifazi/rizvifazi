@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### My Batches:
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70494400)" />][AzureFund]
+[<img align="left" alt="rizvifazi | LinkedIn" width="50px" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />][AzureFund]
 
 ### Connect with me:
 
