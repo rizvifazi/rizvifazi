@@ -34,8 +34,8 @@ This is the place where I opensource stuff and break things 🤣
 ### Connect with me:
 
 
-![Website][<img align="left" alt="rizvifazi" width="22px" src="https://raw.githubusercontent.com/rizvifazi/rizvifazi/main/globe.svg"/>][website]
-[<img align="left" alt="rizvifazi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(83%) sepia(40%) saturate(3751%) hue-rotate(125deg) brightness(104%) contrast(106%);" />][linkedin]
+[<img align="left" alt="rizvifazi" width="22px" src="https://raw.githubusercontent.com/rizvifazi/rizvifazi/main/globe.svg"/>][website]
+[<img align="left" alt="rizvifazi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rizvifazi/rizvifazi/main/linkedin.svg"/>][linkedin]
 
 <br />
 
