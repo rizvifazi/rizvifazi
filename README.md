@@ -14,15 +14,15 @@ This is the place where I open-source stuff and break things 🤣
 
 ### My Batches:
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" target="_blank" />][AzureFund]
+[<img align="left" alt="Azure Fundamentals Batch" width="150px" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" target="_blank" />][AzureFund]
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" target="_blank"/>][AzureData]
+[<img align="left" alt="Azure Data Fundamentals Batch" width="150px" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" target="_blank"/>][AzureData]
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credential.net/badge/tiny/rnw9gusi_1680562937142_badge.png" target="_blank" />][GCP_ACE]
+[<img align="left" alt="GCP ACE Batch" width="150px" src="https://images.credential.net/badge/tiny/rnw9gusi_1680562937142_badge.png" target="_blank" />][GCP_ACE]
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" target="_blank"/>][GCP_PCA]
+[<img align="left" alt="GCP PCA Batch" width="150px" src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" target="_blank"/>][GCP_PCA]
 
-[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" target="_blank"/>][GCP_PCDE]
+[<img align="left" alt="GCP PCDE Batch" width="150px" src="https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" target="_blank"/>][GCP_PCDE]
 
 <br />
 <br />
