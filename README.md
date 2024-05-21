@@ -1,6 +1,6 @@
 ### Hi there, I'm Rizvi - [website] 👋
 
-This is the place where I opensource stuff and break things 🤣
+This is the place where I open-source stuff and break things 🤣
 
 ## I'm a Designer, Developer, and Teacher!!
 
@@ -19,6 +19,10 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" target="_blank"/>][AzureData]
 
 [<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credential.net/badge/tiny/rnw9gusi_1680562937142_badge.png" target="_blank" />][GCP_ACE]
+
+[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" target="_blank"/>][GCP_PCA]
+
+[<img align="left" alt="rizvifazi | LinkedIn" width="150px" src="https://https://images.credly.com/size/680x680/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" target="_blank"/>][GCP_PCDE]
 
 <br />
 <br />
@@ -74,3 +78,5 @@ This is the place where I opensource stuff and break things 🤣
 [AzureFund]: https://www.credly.com/badges/e4d2bb76-4cee-4f0e-80a8-42c5393ef1d9/public_url
 [AzureData]: https://www.credly.com/badges/b765aa25-f08e-4677-a025-c16c10e2a0ee/public_url
 [GCP_ACE]: https://www.credential.net/7c2904f8-a9d9-4654-be15-194593239d0d
+[GCP_PCA]: https://www.credly.com/badges/c38cf27d-46ef-4680-a164-df5a1792c3b9/public_url
+[GCP_PCDE]: https://www.credly.com/badges/c76a7a68-48b5-4998-b8cc-295fdfef15fe/public_url
