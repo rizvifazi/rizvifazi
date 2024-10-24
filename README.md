@@ -2,13 +2,13 @@
 
 This is the place where I open-source stuff and break things 🤣
 
-## I'm a Designer, Developer, and Teacher!!
+## I'm a Designer, Developer, and Mentor!!
 
 - 🔭 I’m currently working on something cool...
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Web App Development
+- 👯 I’m looking to collaborate on training custom LLMs
 - 🤔 I’m looking for help with Backend Development
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Build Multimodal AI Agents for HealthCare Domain
 - ⚡ Fun fact: I love to design
 
 
